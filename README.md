@@ -3,3 +3,6 @@
 
 ## CountToast (Initial Apllication or 1st Basic App )
 - Status - App Builded [✅]
+
+## ScrollView (Second App)
+- Status - App Builded [✅]
