@@ -4,4 +4,4 @@
 | Application Name | Status |
 | --- | --- |
 | CountToast | App Builded [✅] |
-| ScrollView | Status - App Builded [✅] |
+| ScrollView | App Builded [✅] |
