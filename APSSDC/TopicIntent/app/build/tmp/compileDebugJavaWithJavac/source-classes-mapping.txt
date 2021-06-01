@@ -1,0 +1,6 @@
+com/v/topicintent/SecondActivity.java
+ com.v.topicintent.SecondActivity
+com/v/topicintent/BuildConfig.java
+ com.v.topicintent.BuildConfig
+com/v/topicintent/MainActivity.java
+ com.v.topicintent.MainActivity
