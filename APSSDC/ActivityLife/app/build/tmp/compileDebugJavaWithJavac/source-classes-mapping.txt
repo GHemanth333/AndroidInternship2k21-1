@@ -1,0 +1,6 @@
+com/v/activitylife/BuildConfig.java
+ com.v.activitylife.BuildConfig
+com/v/activitylife/SecondActivity.java
+ com.v.activitylife.SecondActivity
+com/v/activitylife/MainActivity.java
+ com.v.activitylife.MainActivity

@@ -1,0 +1,4 @@
+com/v/registrationform/BuildConfig.java
+ com.v.registrationform.BuildConfig
+com/v/registrationform/MainActivity.java
+ com.v.registrationform.MainActivity

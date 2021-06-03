@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string-array name="title">
+        <item>Mr</item>
+        <item>Mrs</item>
+        <item>Ms</item>
+    </string-array>
+    <string name="et">Your First Name</string>
+    <string name="et1">Your Second Name</string>
+    <string name="et2">Enter Your Email Address</string>
+    <string name="et3">Enter Your Mobile Number</string>
+    <string name="et4">Enter Your Password</string>
+    <string name="et5">Confirm Your Password</string>
+    <string name="et6">Enter Your Postal Address</string>
+    <string name="ch1">English</string>
+    <string name="ch2">Hindi</string>
+    <string name="ch3">Telugu</string>
+    <string name="ch4">Tamil</string>
+    <string name="ch5">Malyalam</string>
+    
+</resources>
