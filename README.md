@@ -5,3 +5,6 @@
 | --- | --- |
 | CountToast | App Builded [✅] |
 | ScrollView | App Builded [✅] |
+| Intent | App Builded [✅] |
+| ActivityLife | App Builded [✅] |
+| RegistrationForm | App Builded [✅] |

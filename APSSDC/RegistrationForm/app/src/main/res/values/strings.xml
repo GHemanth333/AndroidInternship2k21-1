@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Registration Form</string>
-    <string-array name="title">
+    <string-array name="branch">
+        <item>Title</item>
         <item>Mr</item>
         <item>Mrs</item>
         <item>Ms</item>
@@ -12,6 +13,7 @@
     <string name="et4">Enter Your Password</string>
     <string name="et5">Confirm Your Password</string>
     <string name="et6">Enter Your Postal Address</string>
+    <string name="et7">Enter Your DOB</string>
     <string name="ch1">English</string>
     <string name="ch2">Hindi</string>
     <string name="ch3">Telugu</string>
