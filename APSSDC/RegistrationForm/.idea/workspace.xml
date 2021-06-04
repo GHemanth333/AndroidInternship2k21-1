@@ -2,8 +2,14 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <device id="pixel_4_xl" />
+      </config>
     </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="APSSDC" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
@@ -21,15 +27,30 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1tOTXobQkmJuTAuPqRig5dUhjPc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="VirtualDevicePath@C:\Users\udayk\.android\avd\Pixel_4_XL_API_29.avd" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-06-03T11:36:27.546522500Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ANDROID APP DEVELOPMENT\1ST APP\RegistrationForm\app\src\main\res\drawable" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -110,9 +131,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="691" y="172" key="AndroidCreateResourceFileDialog" timestamp="1622719276104">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="691" y="172" key="AndroidCreateResourceFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1622719276104" />
     <state x="449" y="172" key="Downloadable.Font.Dialog.Size" timestamp="1622639377569">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="449" y="172" key="Downloadable.Font.Dialog.Size/0.0.1536.834@0.0.1536.834" timestamp="1622639377569" />
+    <state x="860" y="172" key="FileChooserDialogImpl" timestamp="1622805631848">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="860" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1622805631848" />
+    <state width="1493" height="47" key="GridCell.Tab.0.bottom" timestamp="1622811395523">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="47" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1622811395523" />
+    <state width="1493" height="47" key="GridCell.Tab.0.center" timestamp="1622811395523">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="47" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1622811395523" />
+    <state width="1493" height="47" key="GridCell.Tab.0.left" timestamp="1622811395523">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="47" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1622811395523" />
+    <state width="1493" height="47" key="GridCell.Tab.0.right" timestamp="1622811395523">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="47" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1622811395523" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1622719716778">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1622719716778" />
+    <state x="926" y="195" key="chooseDestDirectoryDialog" timestamp="1622723267836">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="926" y="195" key="chooseDestDirectoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1622723267836" />
   </component>
 </project>

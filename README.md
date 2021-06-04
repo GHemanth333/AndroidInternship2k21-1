@@ -8,3 +8,4 @@
 | Intent | App Builded [✅] |
 | ActivityLife | App Builded [✅] |
 | RegistrationForm | App Builded [✅] |
+| OptionsMenu | App Builded [✅] |

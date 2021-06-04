@@ -1633,6 +1633,7 @@ drawable abc_textfield_search_material
 drawable abc_vector_test
 drawable avd_hide_password
 drawable avd_show_password
+drawable bg
 drawable btn_checkbox_checked_mtrl
 drawable btn_checkbox_checked_to_unchecked_mtrl_animation
 drawable btn_checkbox_unchecked_mtrl
@@ -1647,6 +1648,12 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_baseline_date_range_24
+drawable ic_baseline_email_24
+drawable ic_baseline_lock_24
+drawable ic_baseline_person_24
+drawable ic_baseline_phone_24
+drawable ic_baseline_post_add_24
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
 drawable ic_launcher_background
@@ -1687,6 +1694,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable shape
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1781,6 +1789,11 @@ id bounce
 id buttonPanel
 id cache_measures
 id cancel_button
+id cb1
+id cb2
+id cb3
+id cb4
+id cb5
 id center
 id center_horizontal
 id center_vertical
@@ -2057,6 +2070,7 @@ id staticPostLayout
 id stop
 id stretch
 id submenuarrow
+id submit
 id submit_area
 id tabMode
 id tag_accessibility_actions
@@ -2109,6 +2123,7 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tv
+id tvc
 id unchecked
 id uniform
 id unlabeled
